@@ -18,7 +18,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                git 'https://github.com/ramyachetty/zomato-project1.git'
+                git 'https://github.com/kd-abhidev/Zomato-Clone-DevOps-Project.git'
             }
         }
 
